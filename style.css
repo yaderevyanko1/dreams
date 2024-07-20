@@ -62,7 +62,7 @@ p {
     margin: 0px auto 0px auto;
     max-width: 1100px;
     text-align: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 article {
